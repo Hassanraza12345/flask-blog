@@ -10,7 +10,7 @@ pip install -r requirements.txt
 # Run project in developer server                               
 go to the environment directory                           
 
-C:\Users\username> cd your path to the environment directory (C:\Users\username>cd desktop/environments)
+C:\Users\username> cd your path to the environment directory (in my case  C:\Users\username>cd desktop/environments)
 
 environment-name/Scripts/Activate                       
 cd ..                                                         
