@@ -15,5 +15,5 @@ C:\Users\username> cd your path to the environment directory (C:\Users\username>
 environment-name/Scripts/Activate                       
 cd ..                                                         
 
-cd project-directory-path
+cd project-directory-path                         
 python run.py
